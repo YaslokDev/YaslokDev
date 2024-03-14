@@ -8,11 +8,8 @@ Soy un desarrollador FullStack apasionado por la creación de aplicaciones robus
 ### Lenguajes y Tecnologías de Desarrollo:
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML            ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS          ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript            
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-
-![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 
 ### Frameworks y Librerías:
 ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
